@@ -6,4 +6,5 @@
 # Instructions
 
 - get a bowl
+- and a spoon
 
